@@ -1,2 +1,3 @@
 # sasewhite_AFMOS
 对apss_mige的优化
+本项目是对apss_mige自动化测试框架的进一步优化
